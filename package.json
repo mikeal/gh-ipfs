@@ -1,0 +1,20 @@
+{
+  "name": "gh-ipfs",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Mikeal Rogers <mikeal.rogers@gmail.com> (http://www.mikealrogers.com)",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "bent": "^1.1.0",
+    "graphql-request": "^1.6.0",
+    "json-stream": "^1.0.0"
+  },
+  "devDependencies": {
+    "ipfs-api": "^22.0.1"
+  }
+}
